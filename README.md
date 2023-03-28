@@ -36,5 +36,5 @@
 
  ⚙️💻
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-log0&layout=compact)](https://github.com/C-log0/github-readme-stats) <br><br>
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-log0&layout=compact)](https://github.com/C-log0/github-readme-stats) <br><br> -->
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-log0&show_icons=true&theme=nord)
